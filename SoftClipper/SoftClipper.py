@@ -1,5 +1,7 @@
-import pysam
 import argparse
+
+import pysam
+
 from .version import __version__
 
 
